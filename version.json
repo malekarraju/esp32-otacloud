@@ -1,0 +1,4 @@
+{
+  "version": "2.0",
+  "bin": "https://raw.githubusercontent.com/malekarraju/esp32-otacloud/main/firmware.bin"
+}
